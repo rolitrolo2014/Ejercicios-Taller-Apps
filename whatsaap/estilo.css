@@ -1,0 +1,114 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+    height: 406px;
+    width: 890px;
+
+
+   }
+
+.seccion-p{
+    height: 410px;
+    float: left;
+    width: 290px;
+}
+
+.encabezado1{
+    text-align: center;
+    width: 295px;
+    height: 70px;
+    background: #DBDBDB;
+}
+
+.encabezado-seccion-dos h1{
+    position: relative;
+    top: 15px; 
+}
+
+.contactos{
+    text-align: justify;
+    width: 293px;
+    position: relative;
+    left: 0px;
+    cursor: pointer;
+}
+
+.conctactos{
+
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: aliceblue;
+}
+
+.seccion-dos{
+    display: inline-block;
+    width: 592px;
+    height: 400px;
+      
+}
+
+.encabezado-seccion-dos{
+    text-align: center;
+    width: 583px;
+    height: 70px;
+    background-color: rgb(220, 220, 220);
+}
+
+.caja{
+    text-align: center;
+    width: 580px;
+    height: 260px;
+    color: rgb(128, 128, 128);
+}
+
+.texto{
+    font-size: large;
+    border: 0px;
+    border-style: solid;
+    border-color: gray;
+    text-align: justify;
+    width: 530px;
+    height: 50px;
+    color: #000000;
+    font-style: italic;
+    font-size: 1em;
+    background-color: #dcdcdc;
+    border-radius: 30px;
+    position: relative;
+    left: 40px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: relative;
+    right: -5px;
+}
+
+img {
+    cursor: pointer;
+}
+
+.contacotos:hover {
+    color: #0000ff;
+}
+
+
+#menu {
+    position: relative;
+    top: 80px;
+
+}
+
+
+#text{
+    position: relative;
+    top: 15px;
+}
